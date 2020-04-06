@@ -6,7 +6,7 @@
         INKLUD
         <span class="green">JS</span>
       </h1>
-      <h2 class="subtitle">Mitt første prosjekt</h2>
+      <h2 class="subtitle">Første prosjekt</h2>
       <div class="links">
         <NLink to="/about" class="button--grey">Om siden</NLink>
       </div>
