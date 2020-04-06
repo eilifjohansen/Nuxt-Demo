@@ -8,7 +8,7 @@
       </h1>
       <h2 class="subtitle">Første prosjekt</h2>
       <div class="links">
-        <NLink to="/about" class="button--grey">Om siden</NLink>
+        <NLink to="/about" class="button--grey">Om prosjektet</NLink>
       </div>
       <br>
       <br>
