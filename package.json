@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-sandbox-demo",
+  "version": "1.0.0",
+  "description": "Mitt første prosjekt med Nuxt Sandbox.",
+  "author": "Nuxt.js Team",
+  "private": true,
+  "scripts": {
+    "dev": "MINIMAL=1 CSB=1 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@nuxt/http": "^0.3.0",
+    "nuxt": "^2.12.2",
+    "reqlim": "^0.0.0",
+    "vue-client-only": "2.0.0",
+    "vue-meta": "2.3.3"
+  },
+  "keywords": []
+}
